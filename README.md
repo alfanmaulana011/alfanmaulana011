@@ -1,16 +1,51 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Alfan Maulana</h1>
+<h3 align="center">⚡ Electrical Engineering | Power Electronics | Embedded Systems ⚡</h3>
 
-<!--
-**alfanmaulana011/alfanmaulana011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alfanmaulana011&show_icons=true&theme=tokyonight" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alfanmaulana011&theme=tokyonight" />
+</p>
+
+---
+
+## 🚀 About Me
+- 🔬 Research Interest: Power Electronics & MPPT Algorithms  
+- ⚙️ Working on Boost Converter & Optimization Algorithms  
+- 🤖 Interested in GWO, PSO, RTH for MPPT  
+- 📊 Love MATLAB, Arduino & Embedded Systems  
+
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MATLAB-orange?style=for-the-badge&logo=mathworks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Arduino-blue?style=for-the-badge&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ESP32-black?style=for-the-badge&logo=espressif&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Proteus-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white"/>
+</p>
+
+---
+
+## ⚡ Research Focus
+- DC-DC Boost Converter Design  
+- Maximum Power Point Tracking (MPPT)  
+- Metaheuristic Optimization Algorithms  
+- Renewable Energy Systems  
+
+---
+
+## 📫 Connect With Me
+<p align="center">
+  <a href="https://linkedin.com/in/USERNAME_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+</p>
