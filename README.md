@@ -17,7 +17,7 @@
 - 🔬 Research Interest: Power Electronics & MPPT Algorithms  
 - ⚙️ Working on Boost Converter & Optimization Algorithms  
 - 🤖 Interested in GWO, PSO, RTH for MPPT  
-- 📊 Love MATLAB, Arduino & Embedded Systems  
+- 📊 Love MATLAB, Microcontroller & Embedded Systems  
 
 ---
 
