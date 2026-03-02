@@ -43,9 +43,17 @@
 
 ---
 
+## 📚 Publications
+
+- **Implementasi Metode Holt-Winters dan Deseasonalized Untuk Prediksi Penumpang Bandara Soekarno-Hatta**  
+   🔗 View on Techno.com (https://doi.org/10.62411/tc.v23i1.9715)
+
+---
+
 ## 📫 Connect With Me
 <p align="center">
   <a href="https://linkedin.com/in/USERNAME_LINKEDIN">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
   </a>
 </p>
+
